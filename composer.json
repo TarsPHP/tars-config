@@ -2,11 +2,11 @@
   "name": "phptars/tars-config",
   "description": "tars的配置拉取",
   "minimum-stability": "dev",
-  "version":"0.1.4",
+  "version":"0.1.5",
   "authors": [
     {
       "name": "Chen liang",
-      "email": "liangchen@yuewen.com"
+      "email": "cedricliang21@gmail.com"
     }
   ],
   "require":{
