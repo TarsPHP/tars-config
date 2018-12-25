@@ -26,4 +26,8 @@ class ConfigWrapper
         $this->_configServant = new ConfigServant($config);
     }
 
+    public function loadConfig($app, $server, $filename, &$config) {
+        $this->_configServant->loadConfig($app, $server, $filename, $config);
+    }
+
 }
